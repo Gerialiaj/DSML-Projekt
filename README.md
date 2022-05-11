@@ -17,6 +17,7 @@ specific clustering algorithm, how you prepared the data, the number of clusters
 the trip archetypes you have identified by analyzing how they vary across the above-mentioned
 three core trip dimensions. Assign a meaningful label per each trip archetype that can be readily
 interpreted by a non-expert in a meaningful way.
+
 2. Predictive Analytics4: Future demand is a key factor that will steer operational decision making of
 a shared rental network. As a data scientist it is your responsibility to facilitate this type of decision
 support. For the purpose of this assignment we are interested in forecasting the expected number
